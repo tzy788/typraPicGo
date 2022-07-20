@@ -1,0 +1,2 @@
+# typraPicGo
+typora picbed
